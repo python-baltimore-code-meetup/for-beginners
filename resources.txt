@@ -1,0 +1,25 @@
+Copy and paste links into browser to access resources.
+
+
+Python Cheat Sheets - This sheets are extremely helpful for beginners and everyone. They contain many useful bits about various parts of the language and some more popular libraries. If you really like them buy the authors book to show your support. 
+ Url for Cheat Sheets: https://ehmatthes.github.io/pcc/cheatsheets/README.html
+ 
+Chris Hawkes Python tutorial - Youtube video series that walks you through Python over a series of videos. Great for newcomers.
+Url for Playlist: https://www.youtube.com/playlist?list=PLei96ZX_m9sWS2gm1zGqGq6ZzU9T5QSg7
+
+Now you have some basics down head over to Reddit r/dailyprogrammer and try some of the Easy Challenges.
+
+Data Analysis Resources: Python for Data Analysis by Wes Mckinney is an excellent source to keep around. No free version of the book but you can find it fairly cheap used on Amazon. 
+
+The Youtube channel Data School has a ton of videos on using the Pandas library. Url for Channel: https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
+
+
+General Tips for NewComers:
+
+If you are brand new to programming here are some general tips.
+
+1. Learn the why and how behind what is happening - This can never be overstated, when you have an error in your code that is not simply a typo try and figure out why you are getting the error. Especially type errors. Although they aren't super important to learn up front since Python is dynamically typed they will quickly become important.
+
+2. In the beginning write programs that do one thing. - You aren't going to build the next million dollar idea when you start programming. In the beginning figure out one thing you want to do and do that. This will allow you learn in small chunks and gain an understanding of the language and programming in general in small parts.
+
+I'll add more when I think of them. 
