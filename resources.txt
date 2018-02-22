@@ -1,5 +1,8 @@
 Copy and paste links into browser to access resources.
 
+Git Help:
+
+https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository - This is an invaluable resource for learning about git. 
 
 Python Cheat Sheets - This sheets are extremely helpful for beginners and everyone. They contain many useful bits about various parts of the language and some more popular libraries. If you really like them buy the authors book to show your support. 
  Url for Cheat Sheets: https://ehmatthes.github.io/pcc/cheatsheets/README.html
